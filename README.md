@@ -1,0 +1,2 @@
+# git-predavanje
+neki opis
